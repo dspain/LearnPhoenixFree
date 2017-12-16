@@ -7,7 +7,7 @@ class HelloWorld extends React.Component {
   }
 }
 
-ReactDom.render(
+ReactDOM.render(
   <HelloWorld />,
   document.getElementById("root")
 )
